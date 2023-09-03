@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /root/Mirror-Size-Status
+cd /siwoo.org-system/Mirrors-size-status
 git rm Update*
 git add ./*
 git commit -m "Delete"
